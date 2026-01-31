@@ -1,0 +1,14 @@
+# Built binaries
+NowPlayingBridge/NowPlayingBridge
+jukebox/jukebox
+NowPlayingBridge/.build/
+
+# go-librespot is cloned by the user, not committed
+go-librespot/
+
+# Swift package manager
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
